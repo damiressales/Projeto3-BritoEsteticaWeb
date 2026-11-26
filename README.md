@@ -12,8 +12,3 @@ Aplicação web voltada aos clientes da **Brito Estética Automotiva**, permitin
 - **Front-end:** TypeScript, HTML5, CSS3
 - **Back-end / Integração:** PHP
 - **Banco de Dados:** MySQL
-
-## Como Executar o Projeto
-1. Clone este repositório na pasta do seu servidor local (ex.: `htdocs` no XAMPP ou `www` no Laragon):
-   ```bash
-   git clone [https://github.com/seu-usuario/brito-estetica-web.git](https://github.com/seu-usuario/brito-estetica-web.git)
